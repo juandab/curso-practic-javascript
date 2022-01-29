@@ -1,0 +1,46 @@
+*{
+    font-family: 'Dongle', sans-serif;
+}
+header{
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+}
+form{
+    width: 400px;
+    text-align: center;
+    margin: auto;
+    border:1px solid #c2c2c2;
+}
+label {
+    display: inline-block;
+    font-size: 30px;
+}
+input {
+    text-align: center;
+    margin: 15px;
+    font-size: 30px;
+    width: 300px;
+}
+button {
+    font-size: 30px;
+}
+.result{
+    color: red;
+    transition: 1s;
+    transform: translateY(10px);
+}
+.talleres {
+    text-align: center;
+}
+.talleres h1 {
+    font-size: 40px;
+}
+.talleres a {
+    font-weight: bold;
+    text-decoration: none;
+    color: red;
+    font-size: 30px;
+}
